@@ -1,0 +1,11 @@
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\bin\Debug\netcoreapp2.2\Object-orientedFourElements.deps.json
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\bin\Debug\netcoreapp2.2\Object-orientedFourElements.runtimeconfig.json
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\bin\Debug\netcoreapp2.2\Object-orientedFourElements.runtimeconfig.dev.json
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\bin\Debug\netcoreapp2.2\Object-orientedFourElements.dll
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\bin\Debug\netcoreapp2.2\Object-orientedFourElements.pdb
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.csprojAssemblyReference.cache
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.csproj.CoreCompileInputs.cache
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.AssemblyInfoInputs.cache
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.AssemblyInfo.cs
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.dll
+C:\Users\LongShiLin\RiderProjects\Object-orientedThkingProcess\Object-orientedFourElements\obj\Debug\netcoreapp2.2\Object-orientedFourElements.pdb
