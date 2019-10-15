@@ -6,7 +6,8 @@ namespace Object_orientedFourElements.序列化和反序列化
 {
     public class SMain
     {
-        static void Main(string[] args)
+        static void main(string[] args)
+//        static void Main(string[] args)
         {
             var sMain = new SMain();
         }
