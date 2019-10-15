@@ -6,6 +6,10 @@ namespace Object_orientedFourElements.多态
     {
         private readonly double radius;
 
+        public Circle()
+        {
+        }
+
         public Circle(double radius)
         {
             this.radius = radius;

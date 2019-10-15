@@ -5,6 +5,10 @@
         private readonly double length;
         private readonly double width;
 
+        public Rectangle()
+        {
+        }
+
         public Rectangle(double length, double width)
         {
             this.length = length;
